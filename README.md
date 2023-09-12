@@ -2,7 +2,7 @@
   <🧿> Piñata Vision
 </h1>
 
-<img src="icon.png" alt="Rare Logo" align="left" width="192"/>
+<img src="https://github.com/Rakioth/PinataVision/assets/75569411/a9ce8a46-808d-4cfb-8fe9-32ae93eca38c" alt="Rare Logo" align="left" width="192"/>
 
 ## Project Overview
 
@@ -30,4 +30,4 @@ python pv_encoder.py <input_file> [-d]
 
 ## 🃏 Custom Cards
 
-[PV Generator](https://play.google.com/store/apps/details?id=com.rakioth.pvgenerator) is an Android application that simplifies the creation of custom Piñata Vision cards. All cards generated using this app are free to use, and immediately reusable.
+[PV Creator](https://play.google.com/store/apps/details?id=com.raks.pvcreator) is an Android application that simplifies the creation of custom Piñata Vision cards. All cards generated using this app are free to use, and immediately reusable.
