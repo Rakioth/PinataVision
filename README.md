@@ -30,4 +30,4 @@ python pv_encoder.py <input_file> [-d]
 
 ## 🃏 Custom Cards
 
-[PV Creator](https://play.google.com/store/apps/details?id=com.raks.pvcreator) is an Android application that simplifies the creation of custom Piñata Vision cards. All cards generated using this app are free to use, and immediately reusable.
+[PV Creator](https://play.google.com/store/apps/details?id=com.raks.pvcreator&hl=en) is an Android application that simplifies the creation of custom Piñata Vision cards. All cards generated using this app are free to use, and immediately reusable.
